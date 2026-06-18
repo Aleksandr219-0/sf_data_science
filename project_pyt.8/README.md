@@ -6,7 +6,7 @@
 ## Как запустить
 
 1. Клонировать репозиторий:
-   `git clone https://github.com/username/guess-number.git`
+   `git clone https://github.com/Aleksandr219-0/sf_data_science/blob/636b2265325e669bd7cfdb2c371ded48ebf7a4f4/project_pyt.8/game_.ipynb`
 2. Установить зависимости:
    `pip install -r requirements.txt`
 3. Запустить:
