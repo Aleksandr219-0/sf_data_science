@@ -12,4 +12,4 @@ models/
 
 # Jupyter and Python service files
 .ipynb_checkpoints/
-__pycache__/
+__pycache__/PROJECT-4-andr/video/*.mp4
