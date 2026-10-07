@@ -282,10 +282,3 @@ video/
 6. Появление стилизованного изображения.
 7. Сохранение результата в Галерею.
 8. Открытие сохранённого JPEG.
-
-## Источники 
-
-- [Magenta Arbitrary Image Stylization](https://github.com/magenta/magenta/tree/main/magenta/models/arbitrary_image_stylization)
-- [TensorFlow Hub: Fast Style Transfer for Arbitrary Styles](https://www.tensorflow.org/hub/tutorials/tf2_arbitrary_image_stylization)
-- [TensorFlow Hub: Magenta Arbitrary Image Stylization](https://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256/2)
-- [TensorFlow Lite Style Transfer Android Example](https://github.com/tensorflow/examples/tree/master/lite/examples/style_transfer/android)
