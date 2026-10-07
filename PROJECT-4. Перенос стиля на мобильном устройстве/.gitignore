@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# TensorFlow Hub: локальный кэш загруженной модели
+models/tfhub_cache/
+
+# Большие локальные исходные данные
+data/raw/
+data/wikiart/
+
+# Windows и macOS
+Thumbs.db
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Android / Gradle
+.gradle/
+local.properties
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Временные файлы
+*.log
+*.tmp
