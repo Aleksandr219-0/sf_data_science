@@ -283,7 +283,7 @@ video/
 7. Сохранение результата в Галерею.
 8. Открытие сохранённого JPEG.
 
-## Источники
+## Источники 
 
 - [Magenta Arbitrary Image Stylization](https://github.com/magenta/magenta/tree/main/magenta/models/arbitrary_image_stylization)
 - [TensorFlow Hub: Fast Style Transfer for Arbitrary Styles](https://www.tensorflow.org/hub/tutorials/tf2_arbitrary_image_stylization)
