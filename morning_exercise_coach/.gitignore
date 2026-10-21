@@ -4,14 +4,20 @@ __pycache__/
 .venv/
 venv/
 
-data/original/*
-data/reference/*
-data/processed/*
+# Игнорируем только тяжелые веса моделей и промежуточные массивы
 models/*.task
-output/*
+data/processed/*.npy
 
+# Разрешаем структуры папок
 !data/original/.gitkeep
 !data/reference/.gitkeep
 !data/processed/.gitkeep
 !models/.gitkeep
 !output/.gitkeep
+
+# Разрешаем исходные видео и итоговые результаты для сдачи диплома
+!data/original/*.mp4
+!data/reference/*.mp4
+!output/morning_coach_result.mp4
+!output/morning_coach_metrics.csv
+!output/metrics_plot.png
