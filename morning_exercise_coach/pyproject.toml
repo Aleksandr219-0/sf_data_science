@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "morning-exercise-coach"
+version = "0.1.0"
+description = "Virtual coach for pose comparison in morning exercise videos"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy==1.26.4",
+    "mediapipe==0.10.14",
+    "opencv-contrib-python==4.10.0.84",
+    "pandas",
+    "matplotlib",
+    "tqdm",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

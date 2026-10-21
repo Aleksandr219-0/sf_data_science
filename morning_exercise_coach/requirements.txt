@@ -1,0 +1,8 @@
+numpy==1.26.4
+mediapipe==0.10.14
+opencv-contrib-python==4.10.0.84
+pandas
+matplotlib
+tqdm
+jupyter
+ipykernel

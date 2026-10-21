@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+data/original/*
+data/reference/*
+data/processed/*
+models/*.task
+output/*
+
+!data/original/.gitkeep
+!data/reference/.gitkeep
+!data/processed/.gitkeep
+!models/.gitkeep
+!output/.gitkeep
